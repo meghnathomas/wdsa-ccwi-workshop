@@ -5328,7 +5328,9 @@
 [CONTROLS]
 
 
+
 [RULES]
+
 
 
 [ENERGY]
@@ -5391,7 +5393,7 @@
  Pattern            	1
  Demand Multiplier  	1
  Emitter Exponent   	0.5
- Quality            	NONE mg/L
+ Quality            	Trace node_2547
  Diffusivity        	1
  Tolerance          	0.01
 
